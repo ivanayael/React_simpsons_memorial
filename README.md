@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# The Simpsons Memorial App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este sitio fue creado en el momento por Oscar Ramos para ayudarme con una rapida creación de un memorial para el ISEC cuando me pinte y me vesti como un personaje de Los Simpsons e hice una actuación del tema de apertura: al final mostraba este sitio. Fue muy dificil y complejo ese momento. Fuí reconocida por la originalidad de ese proyecto.
+
+NO LO INTENTEN EN CASA, ES DIFICIL INTERPRETARLO SIENDO PRINCIPIANTE Y SOLO UN ACTOR.
 
 ## Available Scripts
 
